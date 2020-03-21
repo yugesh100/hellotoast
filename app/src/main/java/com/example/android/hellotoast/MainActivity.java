@@ -67,4 +67,11 @@ public class MainActivity extends AppCompatActivity {
         if (mShowCount != null)
             mShowCount.setText(Integer.toString(mCount));
     }
+    public void countZero(View view) {
+        mCount = 0;
+        if (mShowCount != null)
+            mShowCount.setText(Integer.toString(mCount));
+
+
+    }
 }

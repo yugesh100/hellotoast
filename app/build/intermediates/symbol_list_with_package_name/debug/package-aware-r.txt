@@ -648,6 +648,7 @@ id basic
 id beginning
 id blocking
 id bottom
+id button
 id buttonPanel
 id button_count
 id button_toast
